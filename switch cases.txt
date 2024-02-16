@@ -7,6 +7,8 @@ int main()
 
 int n =0;
 printf("Press 1 to check the prime number")
+
+printf("Press 2 to check the armstrong number")
 printf("enter the number");
 scanf("%d",&n);
 
