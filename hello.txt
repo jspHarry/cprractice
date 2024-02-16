@@ -1,8 +1,11 @@
 #include<stdio.h>
-
-int main()
+void main()
 {
+printf("programming is fun");
+printf("we will learn from basics");
+}
 
-printf("hello world");
-return 0;
+void fun()
+{
+printf("anything");
 }
