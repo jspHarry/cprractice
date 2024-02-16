@@ -20,4 +20,13 @@ printf("enter the number");
 scanf("%d",&n);
 
 return 0;
+b=1;
+
+if (n < 0)
+        printf("Enter a number greater than 0");
+    else {
+        for (a = 1; a <= n; ++a) {
+            b *= a;
+        }
+        printf("Factorial of %d = %d", n, b);
 }
