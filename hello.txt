@@ -3,6 +3,9 @@
 int main()
 {
 
-printf("hello world");
+printf("welcome");
+scanf("%d",&n)
+printf("this is the first program");
+
 return 0;
 }
